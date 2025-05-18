@@ -3,9 +3,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-/**
- *
- * @author rdaff
+/* Nama file: MainDAO.java
+ * Deskripsi: Main program untuk akses DAO
+ * Pembuat: Rasendriya Daffa Al Ghifary (24060123130077)
+ * Tanggal: Kamis, 15 Mei 2025
  */
 
 public class MainDAO {
